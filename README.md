@@ -10,7 +10,7 @@
 
 ## Brief Explanation
 
-> Web application created to control the process of closing files for printing and ctp. Simple crud more easy to handle.
+> Web application created for study. Dev.Finance is a simple personal financial control application.
 
 ## Visualization Application
 
